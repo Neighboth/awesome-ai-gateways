@@ -44,6 +44,7 @@ Core open-source and self-hostable projects providing proxying, token management
 | **[One-API](https://github.com/songquanpeng/one-api)** | Go | - | ✅ | ✅ | ✅ | ✅ | OpenAI API management & routing platform for aggregating multiple providers into a unified endpoint. |
 | **[9router](https://github.com/decolua/9router)** | TypeScript | - | ❌ | ✅ | ✅ | ✅ | Open-source unified AI API gateway and model router with key distribution. |
 | **[LMRouter](https://github.com/LMRouter/lmrouter)** | Go | - | ❌ | ✅ | ✅ | ✅ | High-performance, lightweight LLM routing proxy focused on low-overhead execution. |
+| **[Bifrost](https://github.com/maximhq/bifrost)** | Go | - | ❌ | ✅ | ✅ | ✅ | High-performance, open-source AI gateway with a unified OpenAI-compatible API, multi-provider routing, automatic failover, load balancing, and governance controls. |
 | **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** | TypeScript | - | ❌ | ✅ | ✅ | ✅ | Fast AI Gateway for routing to 250+ LLMs with 1 API, retries, and semantic caching. |
 | **[RouteLLM](https://github.com/lm-sys/RouteLLM)** | Python | - | ❌ | ✅ | ❌ | ✅ | Framework for serving and routing LLMs dynamically based on prompt complexity and cost optimization. |
 

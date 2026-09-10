@@ -49,6 +49,7 @@ Vekil sunucu (proxy), jeton (token) yönetimi, istek sınırlama ve otomatik yed
 | **[One-API](https://github.com/songquanpeng/one-api)** | Go | - | ✅ | ✅ | ✅ | ✅ | Birden fazla sağlayıcıyı tek bir uç noktada toplayan OpenAI API yönetim ve yönlendirme platformu. |
 | **[9router](https://github.com/decolua/9router)** | TypeScript | - | ❌ | ✅ | ✅ | ✅ | Anahtar dağıtımı sunan açık kaynaklı, birleşik yapay zeka API gateway ve model yönlendiricisi. |
 | **[LMRouter](https://github.com/LMRouter/lmrouter)** | Go | - | ❌ | ✅ | ✅ | ✅ | Düşük gecikmeli çalışmaya odaklanmış, yüksek performanslı ve hafif LLM yönlendirme vekil sunucusu. |
+| **[Bifrost](https://github.com/maximhq/bifrost)** | Go | - | ❌ | ✅ | ✅ | ✅ | Birleşik OpenAI uyumlu API, çoklu sağlayıcı yönlendirmesi, otomatik hata telafisi, yük dengeleme ve yönetişim kontrolleri sunan yüksek performanslı, açık kaynaklı AI gateway. |
 | **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** | TypeScript | - | ❌ | ✅ | ✅ | ✅ | Tek bir API, yeniden denemeler ve semantik önbellek ile 250'den fazla LLM'e yönlendirme yapan hızlı AI Gateway. |
 | **[RouteLLM](https://github.com/lm-sys/RouteLLM)** | Python | - | ❌ | ✅ | ❌ | ✅ | İstek karmaşıklığına ve maliyet optimizasyonuna göre LLM'leri dinamik olarak yönlendiren altyapı. |
 
