@@ -50,10 +50,11 @@ Core open-source and self-hostable projects providing proxying, token management
 
 | Project | Lang | Demo | Commercial / Billing | Smart Fallback | Load Balancing | Dynamic Mapping | Description |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| **[better-new-api](https://github.com/Neighboth/better-new-api)** ![Recommended](https://img.shields.io/badge/-Recommended-brightgreen) ![Beta](https://img.shields.io/badge/-Beta-blue) | Go | [https://pixrouter.com](Demo) | ✅ | ✅ | ✅ | ✅ | Polished and enhanced fork of New-API with active bug fixes, performance improvements, and extended channel stability. |
+| **[better-new-api](https://github.com/Neighboth/better-new-api)** ![Recommended](https://img.shields.io/badge/-Recommended-brightgreen) ![Beta](https://img.shields.io/badge/-Beta-blue) | Go | [Demo](https://pixrouter.com) | ✅ | ✅ | ✅ | ✅ | Polished and enhanced fork of New-API with active bug fixes, performance improvements, and extended channel stability. |
 | **[New API](https://github.com/QuantumNous/new-api)** ![Stable](https://img.shields.io/badge/-Stable-red) | Go | - | ✅ | ✅ | ✅ | ✅ | Enhanced One-API fork built for commercial/sales operations and enterprise token management. |
 | **[LiteLLM](https://github.com/BerriAI/litellm)** | Python | - | ❌ | ✅ | ✅ | ✅ | Call 100+ LLM APIs using the OpenAI format with virtual key management and budget tracking. |
 | **[One-API](https://github.com/songquanpeng/one-api)** | Go | - | ✅ | ✅ | ✅ | ✅ | OpenAI API management & routing platform for aggregating multiple providers into a unified endpoint. |
+| **[Bifrost](https://github.com/maximhq/bifrost)** | Go | - | ❌ | ✅ | ✅ | ✅ | High-performance, open-source AI gateway with a unified OpenAI-compatible API, multi-provider routing, automatic failover, load balancing, and governance controls. |
 | **[Helicone](https://github.com/Helicone/helicone)** | TypeScript | - | ✅ | ✅ | ✅ | ✅ | Open-source LLM observability platform and AI gateway with intelligent routing, fallbacks, and prompt management. |
 | **[Higress](https://github.com/higress-group/higress)** | C++ / Go | - | ❌ | ✅ | ✅ | ✅ | Cloud-native, Envoy-based AI API gateway with Wasm extension support, load balancing, and MCP server hosting. |
 | **[Kong AI Gateway](https://github.com/Kong/kong)** | Lua / Go | - | ✅ | ✅ | ✅ | ✅ | Enterprise API gateway extended with AI plugins for multi-LLM routing, prompt transformations, and rate limiting. |
