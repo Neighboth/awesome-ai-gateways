@@ -14,6 +14,18 @@
     <a href="https://github.com/sindresorhus/awesome">
       <img src="https://raw.githubusercontent.com/sindresorhus/awesome/refs/heads/main/media/badge.svg" alt="Awesome Badge">
     </a>
+    <a href="https://github.com/Neighboth/awesome-ai-gateways/stargazers">
+      <img src="https://img.shields.io/github/stars/Neighboth/awesome-ai-gateways?style=flat-square&color=blue" alt="Stars">
+    </a>
+    <a href="https://github.com/Neighboth/awesome-ai-gateways/network/members">
+      <img src="https://img.shields.io/github/forks/Neighboth/awesome-ai-gateways?style=flat-square&color=blue" alt="Forks">
+    </a>
+    <a href="https://github.com/Neighboth/awesome-ai-gateways/commits/main">
+      <img src="https://img.shields.io/github/last-commit/Neighboth/awesome-ai-gateways?style=flat-square&color=green" alt="Last Commit">
+    </a>
+    <a href="https://github.com/Neighboth/awesome-ai-gateways/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/Neighboth/awesome-ai-gateways?style=flat-square&color=orange" alt="License">
+    </a>
   </p>
 
 </div>
@@ -39,12 +51,17 @@ Core open-source and self-hostable projects providing proxying, token management
 | Project | Lang | Demo | Commercial / Billing | Smart Fallback | Load Balancing | Dynamic Mapping | Description |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | **[better-new-api](https://github.com/Neighboth/better-new-api)** ![Recommended](https://img.shields.io/badge/-Recommended-brightgreen) ![Beta](https://img.shields.io/badge/-Beta-blue) | Go | [https://pixrouter.com](Demo) | ✅ | ✅ | ✅ | ✅ | Polished and enhanced fork of New-API with active bug fixes, performance improvements, and extended channel stability. |
-| **[New API](https://github.com/QuantumNous/new-api)** | Go | - | ✅ | ✅ | ✅ | ✅ | Enhanced One-API fork built for commercial/sales operations and enterprise token management. |
+| **[New API](https://github.com/QuantumNous/new-api)** ![Stable](https://img.shields.io/badge/-Stable-red) | Go | - | ✅ | ✅ | ✅ | ✅ | Enhanced One-API fork built for commercial/sales operations and enterprise token management. |
 | **[LiteLLM](https://github.com/BerriAI/litellm)** | Python | - | ❌ | ✅ | ✅ | ✅ | Call 100+ LLM APIs using the OpenAI format with virtual key management and budget tracking. |
 | **[One-API](https://github.com/songquanpeng/one-api)** | Go | - | ✅ | ✅ | ✅ | ✅ | OpenAI API management & routing platform for aggregating multiple providers into a unified endpoint. |
+| **[Helicone](https://github.com/Helicone/helicone)** | TypeScript | - | ✅ | ✅ | ✅ | ✅ | Open-source LLM observability platform and AI gateway with intelligent routing, fallbacks, and prompt management. |
+| **[Higress](https://github.com/higress-group/higress)** | C++ / Go | - | ❌ | ✅ | ✅ | ✅ | Cloud-native, Envoy-based AI API gateway with Wasm extension support, load balancing, and MCP server hosting. |
+| **[Kong AI Gateway](https://github.com/Kong/kong)** | Lua / Go | - | ✅ | ✅ | ✅ | ✅ | Enterprise API gateway extended with AI plugins for multi-LLM routing, prompt transformations, and rate limiting. |
+| **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** | TypeScript | - | ❌ | ✅ | ✅ | ✅ | Fast AI Gateway for routing to 250+ LLMs with 1 API, retries, and semantic caching. |
+| **[Aperture](https://github.com/fluxninja/aperture)** | Go | - | ❌ | ✅ | ✅ | ✅ | High-performance distributed rate limiting, caching, and concurrency control proxy for LLM workloads. |
+| **[VoidLLM](https://github.com/voidmind-io/voidllm)** | Go | - | ❌ | ✅ | ✅ | ✅ | Privacy-first, zero-knowledge LLM proxy with multi-provider routing, load balancing, and token quotas. |
 | **[9router](https://github.com/decolua/9router)** | TypeScript | - | ❌ | ✅ | ✅ | ✅ | Open-source unified AI API gateway and model router with key distribution. |
 | **[LMRouter](https://github.com/LMRouter/lmrouter)** | Go | - | ❌ | ✅ | ✅ | ✅ | High-performance, lightweight LLM routing proxy focused on low-overhead execution. |
-| **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** | TypeScript | - | ❌ | ✅ | ✅ | ✅ | Fast AI Gateway for routing to 250+ LLMs with 1 API, retries, and semantic caching. |
 | **[RouteLLM](https://github.com/lm-sys/RouteLLM)** | Python | - | ❌ | ✅ | ❌ | ✅ | Framework for serving and routing LLMs dynamically based on prompt complexity and cost optimization. |
 
 ---
