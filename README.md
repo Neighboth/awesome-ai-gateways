@@ -64,7 +64,7 @@ Core open-source and self-hostable projects providing proxying, token management
 | **[9router](https://github.com/decolua/9router)** | TypeScript | - | ❌ | ✅ | ✅ | ✅ | Open-source unified AI API gateway and model router with key distribution. |
 | **[LMRouter](https://github.com/LMRouter/lmrouter)** | Go | - | ❌ | ✅ | ✅ | ✅ | High-performance, lightweight LLM routing proxy focused on low-overhead execution. |
 | **[RouteLLM](https://github.com/lm-sys/RouteLLM)** | Python | - | ❌ | ✅ | ❌ | ✅ | Framework for serving and routing LLMs dynamically based on prompt complexity and cost optimization. |
-
+| **[APIClaw](https://apiclaw.biz/)** | Cloud | [Trial](https://apiclaw.biz/) | ✅ | ✅ |  | ✅ | Flat-rate OpenAI-compatible gateway ($19–$129/mo) with 50-request trial for Claude, OpenAI, DeepSeek, Qwen. |
 ---
 
 ## Key Features Matrix
